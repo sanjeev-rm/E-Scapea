@@ -1,2 +1,4 @@
-# Scapea
-An Augmented Reality App.
+# E-Scapea
+One stop for your plants.
+
+###### By team: PDF Files
